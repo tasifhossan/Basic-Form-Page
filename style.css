@@ -1,0 +1,31 @@
+.header{
+	margin: 0 auto;
+	width: 64%;
+}
+h2{
+	font-size: 1.7em;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 64%;
+	border: 2px solid #ddd;
+	border-radius: 7px;
+	background-color: #f2f2f2;
+	padding: 20px 5px 15px 25px;
+
+}
+label{
+	font-size: 25px;
+}
+.first_name, .last_name, .phone_number, .email_address, .birthday .password, .about_you, .address, .marital_status{
+	width: 90%;
+	height: 20px;
+	padding: 10px;
+	font-size: 18px;
+
+}
+
+span{
+	font-size: 18px;
+}
+
